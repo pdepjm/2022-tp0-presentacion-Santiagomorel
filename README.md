@@ -4,4 +4,4 @@
 
 ![mi foto](foto.png)
 
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQkogtG88cmwEIXEuff291urSyrZUYHikLIoRTspUodvIg5OoaUJTi8n0vqPJ3XUSN65sqJALTBizeB/pub).
+### Hola! Soy Santiago pero normalmente me dicen Morel, tengo 20 años y este es mi 3er año en la UTN, me gusta programar y perder el tiempo, aunque tengo dudas de lo primero. Mi gusto de helado favorito es el limón AL AGUA (a quien le gusta el limón a la crema???) y mi materia preferida hasta ahora fue discreta (me gusta dar cabezazos a la pared? si). Mi escena favorita de los Simpsons es cuando Homero va al espacio y come papitas en gravedad 0. Cual es la tuya?
